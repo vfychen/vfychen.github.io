@@ -1,0 +1,129 @@
+# jemdoc: addcss{jemdoc.css}, notime
+= Feiyang(Vance) Chen
+
+~~~
+{}{img_left}{fychen2.jpg}{alt text}{256px}{192px}
+[https://web.cs.ucla.edu/~fychen/ Feiyang(Vance) Chen] \n
+# Student Member at [https://www.ieee.org/ IEEE] & [https://www.acm.org/ ACM] \n
+Graduate Student, [https://www.cs.ucla.edu/ Department of Computer Science] \n
+[https://www.ucla.edu/ University of California, Los Angeles] \n
+# 404 Westwood Plaza, Los Angeles, CA 90095, United States \n
+Researcher at [https://www.nightai.co/ Night AI], /{{<a href="https://twitter.com/thenightaico" style="color:red;">drop us a line to join!</a>}}/ \n 
+
+#{}{img_left}{fychen.jpg}{alt text}{256px}{192px}
+#{}{img_left}{feiyang.jpg}{alt text}{370px}{256px}
+#{}{img_left}{fychen2.jpg}{alt text}{256px}{192px}
+\n
+Email: [fychen@cs.ucla.edu] | [vfychen@gmail.com] \n
+[https://github.com/Eurus-Holmes GitHub] | [https://twitter.com/vfychen Twitter] | [https://www.linkedin.com/in/feiyangchen98/ Linkedin] | [https://scholar.google.com/citations?hl=en&user=yJgHVyYAAAAJ&view_op=list_works&authuser=4&gmla=AJsN-F4z0Bs5_LJ279QpRClNPQwEs1siVB68lbpziOblP1SJnJayn2mqwfHzej4BpqGxd0dwf3YJHvQRbjS-kNf31iEqB6FOqFySuFKH20lCWz2ox2CQkew Google Scholar] | [CV.pdf Curriculem Vitae] \n
+
+/{{<font color="red">Actively looking for Research/Algorithm/Software internship opportunities for Summer 2022!</font>}}/ \n
+/{{<font color="red">Always open to collaborations on Multimodal and Interdisciplinary research topics!</font>}}/
+
+#\[[https://scholar.google.com/citations?hl=en&user=yJgHVyYAAAAJ&view_op=list_works&authuser=4&gmla=AJsN-F4z0Bs5_LJ279QpRClNPQwEs1siVB68lbpziOblP1SJnJayn2mqwfHzej4BpqGxd0dwf3YJHvQRbjS-kNf31iEqB6FOqFySuFKH20lCWz2ox2CQkew Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
+~~~
+
+
+#with my girl friend [https://www.linkedin.com/in/jiang-ying/ Ying Jiang]. (May 5, 2021)
+#at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
+
+#== News
+#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
+#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
+#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
+#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
+#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
+#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+
+== About me
+I'm a first-year CS graduate student at [http://www.ucla.edu/ UCLA]. My current research interest focuses on *multimodal machine learning* and *healthcare/bio-medicine*. As the nature of human communication is *multimodal*, I aspire to get computers to reach new heights in their understanding and open up new avenues for AI in healthcare. \n
+
+#My research interest lies widely in the scope of Multimodal Machine Learning, Computer Vision, Natural Language Processing, Audio Signal Processing, and Healthcare/Bio-medicine.  
+
+I have been pondering how machines can break out of their computational boundaries to understand human intelligence. My goal is to develop computationally efficient machine learning as well as deep learning models and algorithms, building the computational foundations to enable computers with the abilities to analyze, recognize and predict subtle human communicative behaviors during social interactions. Applications include computer vision, natural language processing, audio signal processing, and drug discovery.
+
+I love *open-source* community and making contributions to the open-source world, like [https://github.com/Eurus-Holmes GitHub]. In [https://gitstar-ranking.com/ Gitstar Ranking], I rank [https://gitstar-ranking.com/Eurus-Holmes Top 0.03%] of all GitHub developers (more than 37,000,000) by GitHub stars. [https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&column=7&theme=dracula&rank=SECRET,SSS,SS,S Here] is my [https://github.com/ryo-ma/github-profile-trophy Github Profile Trophy], I'd like to discover, share, and build better software for this world. I am the core member of some open-source organizations, such as [https://github.com/TheAlgorithms The Algorithms], [https://github.com/apachecn ApacheCN], and [https://github.com/doocs Doocs]. I am also a student member at [https://www.ieee.org/ IEEE] and [https://www.acm.org/ ACM].
+
+My favorite quote: \n 
+*/"The thing that’s worth doing is trying to improve our understanding of the world and gain a better appreciation of the universe and not to worry too much about there being no meaning."/*
+
+
+== Research Interests 
+- *Multimodal Machine Learning*: representation, alignment, translation, fusion, and co-learning of heterogeneous data
+- *Applied Machine Learning*: real-world applications in language, vision, speech, robotics, education, and self-driving
+- *AI + X*: AI for healthcare, finance, climate, agriculture, astronomy, art, and VR
+
+
+== Services
+- PC Member\/Reviewer: ICLR 2022\/2021, NeurIPS 2021, ACL 2021\/2020, NAACL-HLT 2021, EACL 2021, \n AACL-IJCNLP 2020, EMNLP 2020, WACV 2020, ICMI 2021\/2020\/2019
+- Founder of open-source organizations: [https://github.com/FGDBTKD FGDBTKD], [https://github.com/multimodal-machine-learning MMLG], [https://github.com/neural-machine-translation NMTG]
+- Core member of open-source organizations: [https://github.com/TheAlgorithms The Algorithms], [https://github.com/apachecn ApacheCN], [https://github.com/doocs Doocs]
+
+
+
+== Experiences
+- Algorithm Engineer Intern, [http://www.sensetime.com/ SenseTime Research], Oct. 2020 – Jul. 2021
+- Machine Learning Engineer Intern, [https://www.apple.com/ Apple], Mar. 2020 - Sep. 2020
+- Research Assistant, [https://www.cmu.edu/ Carnegie Mellon University], Apr. 2019 - Mar. 2020
+- Algorithm Engineer Intern, [http://research.lenovo.com/webapp/view/index.html Lenovo Research AI Lab], Sep. 2019 - Dec. 2019
+- Research Assistant, [https://www.tsinghua.edu.cn/en/ Tsinghua University], Apr. 2018 - Apr. 2019
+
+
+== Publications & Manuscripts
+
+#=== Preprints
+- [https://www.cell.com/ Tumor2Graph: a novel Overall-Tumor-Profile-derived virtual graph deep learning for predicting tumor typing and subtyping.] 
+#\n *Feiyang Chen*, Zhijian Song, Jie Zhang, Pengfei Zhou, Weifeng Wang, Shaoting Zhang. Submitted to {{<font color="red">Cell</font>}}.
+\n In Submission, 2021.
+- [https://www.nature.com/natmachintell/ Predicting Antigen-Antibody Interaction via Global and Local Feature Deep Learning based on Primary Amino Acid Sequences.] \n Jie Zhang, Pengfei Zhou, Lu Lu, Mu Zhou, Jinru Ding, *Feiyang Chen*, Xuemei Zhang, Weifeng Wang, Shaoting Zhang. Submitted to {{<font color="red">Nature Machine Intelligence</font>}}, 2021.
+- [https://arxiv.org/abs/2101.12547 BridgeDPI: A Novel Graph Neural Network for Predicting Drug-Protein Interactions.] \n Yifan Wu\*, Min Gao\*, Min Zeng, *Feiyang Chen*, Min Li, Jie Zhang. (\*equal contribution). arXiv Preprint 2021.
+- [https://www.mdpi.com/1999-4893/13/5/126/htm PUB-SalNet: A Pre-trained Unsupervised Self-Aware Backpropagation Network for Biomedical Salient Segmentation.] \n *Feiyang Chen\**, Ying Jiang\*, Xiangrui Zeng and Min Xu. (\*equal contribution). Algorithms 2020, 13(5), 126.
+- [https://arxiv.org/abs/1904.08138 Complementary Fusion of Multi-Features and Multi-Modalities in Sentiment Analysis.] \n *Feiyang Chen*, Ziqian Luo, Yanyan Xu and Dengfeng Ke. In Proceedings of the AAAI-20 Workshop on Affective Content Analysis, New York, USA, AAAI.
+- [https://pubmed.ncbi.nlm.nih.gov/32907544/ A unified framework for packing deformable and non-deformable subcellular structures in crowded cryo-electron tomogram simulation.] \n Sinuo Liu, Xiaojuan Ban, Xiangrui Zeng, Fengnian Zhao, Yuan Gao, Wenjie Wu, Hongpan Zhang, *Feiyang Chen*, Thomas Hall, Xin Gao and Min Xu. BMC Bioinformatics 2020.
+- [\# Is Deep Learning All You Need for Unsupervised Saliency Detection of Biomedical Images?] \n *Feiyang Chen*, Ying Jiang, Xiangrui Zeng, and Min Xu. (Manuscript), 2019.
+- [https://arxiv.org/abs/1904.08138 Audio-Text Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities.] \n *Feiyang Chen*, Ziqian Luo. Accepted by NeurIPS 2019 Workshop: NewInML 2019, Vancouver, BC, Canada, NeurIPS.
+- [http://ceur-ws.org/Vol-2328/3_2_paper_17.pdf Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network.] \n Ziqian Luo, Hua Xu and *Feiyang Chen*. In Proceedings of the AAAI-19 Workshop on Affective Content Analysis, Honolulu, USA, AAAI.
+
+
+
+== Education 
+- M.S., Computer Science, [https://www.ucla.edu/ University of California, Los Angeles], 2021 - 2023
+- B.E. (Hons), Computer Science (Innovative Class, an elite undergraduate program), [http://international.bjfu.edu.cn/eng_index/index.html Beijing Forestry University], 2016 - 2020
+
+
+
+
+
+#== Honors & Awards 
+#and Scholarships
+
+#- Outstanding Undergraduate (Equivalent to *Summa Cum Laude*), Beijing, 2020
+#- [http://jw.beijing.gov.cn/gjc/tzgg_15688/202011/t20201117_2137510.html Outstanding Undergraduate Thesis Award of Beijing], 2020
+
+
+
+
+
+== Miscellaneous
+I have a super cute [https://www.linkedin.com/in/jiang-ying/ girlfriend] and we have had a wonderful time for two years ([https://chenfeiyang.top/zb/ live update]), she is my heartworm. I love astronomy and stargazing, and the [https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel) Three-Body] is my favorite book. I am also a big fan of [https://en.wikipedia.org/wiki/Sherlock_Holmes Sherlock Holmes]. That's where my GitHub avatar and username come from.
+
+
+
+#== Visitors
+#{{<!-- hitwebcounter Code START -->
+#<a href="https://www.hitwebcounter.com" target="_blank">
+#<img src="https://hitwebcounter.com/counter/counter.php?page=7827266&style=0005&nbdigits=5&type=page&initCount=10000" title="Free Counter" Alt="web counter"   border="0" /></a>}}         
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
