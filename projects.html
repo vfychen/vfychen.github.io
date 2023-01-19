@@ -14,7 +14,7 @@
 <h1><a href="https://web.cs.ucla.edu/~fychen/projects" target=&ldquo;blank&rdquo;>Projects</a> | <a href="https://web.cs.ucla.edu/~fychen/" target=&ldquo;blank&rdquo;>Homepage</a></h1>
 </div>
 <h2>Summary</h2>
-<p>I have a diverse academic and industrial background with 4+ years of applied research experiences, including Multimodal AI <sup><a href="https://github.com/Eurus-Holmes/Awesome-Multimodal-Research">[0]</a>,<a href="#1">[1]</a>,<a href="#2">[2]</a>,<a href="#3">[3]</a>,<a href="#4">[4]</a></sup>, Graph Neural Networks (GNNs) <sup><a href="#5">[5]</a>,<a href="#2">[2]</a>,<a href="#6">[6]</a>,<a href="#7">[7]</a></sup>, Model Compression &amp; Efficient ML <sup><a href="#5">[5]</a>,<a href="#8">[8]</a>,<a href="#9">[9]</a></sup>, Computer Vision <sup><a href="#9">[9]</a>,<a href="#10">[10]</a>,<a href="#11">[11]</a></sup>, NLP <sup><a href="#1">[1]</a>,<a href="#3">[3]</a>,<a href="#4">[4]</a></sup>, AI for Healthcare <sup><a href="#2">[2]</a>,<a href="#6">[6]</a>,<a href="#7">[7]</a></sup>, Data Augmentation <sup><a href="#9">[9]</a>,<a href="#11">[11]</a></sup>, Large-Scale ML <sup><a href="#5">[5]</a>,<a href="#8">[8]</a></sup>, Auto ML <sup><a href="#9">[9]</a></sup>, Speech &amp; Audio <sup><a href="#4">[4]</a></sup>, and solid software engineering experiences in algorithm design, data structures, problem-solving, and complexity. I’m also active in academics and have served as a reviewer for many top-tier AI/ML conferences, like ICLR, ICML, NeurIPS, etc.
+<p>I have a diverse academic and industrial background with 4+ years of applied research experiences, including Multimodal AI <sup><a href="https://github.com/Eurus-Holmes/Awesome-Multimodal-Research">[0]</a>,<a href="#1">[1]</a>,<a href="#2">[2]</a>,<a href="#3">[3]</a>,<a href="#4">[4]</a>,<a href="#a">[a]</a>,<a href="#b">[b]</a></sup>, Model Compression &amp; Efficient ML <sup><a href="#5">[5]</a>,<a href="#8">[8]</a>,<a href="#9">[9]</a>,<a href="#b">[b]</a></sup>, Graph Neural Networks (GNNs) <sup><a href="#5">[5]</a>,<a href="#2">[2]</a>,<a href="#6">[6]</a>,<a href="#7">[7]</a></sup>, Robustness &amp; Trustworthy AI <sup><a href="#1">[1]</a>,<a href="#6">[6]</a>,<a href="#9">[9]</a>,<a href="#a">[a]</a></sup>, Computer Vision <sup><a href="#9">[9]</a>,<a href="#10">[10]</a>,<a href="#11">[11]</a></sup>, NLP <sup><a href="#1">[1]</a>,<a href="#3">[3]</a>,<a href="#4">[4]</a></sup>, AI for Healthcare <sup><a href="#2">[2]</a>,<a href="#6">[6]</a>,<a href="#7">[7]</a></sup>, Data Augmentation <sup><a href="#9">[9]</a>,<a href="#11">[11]</a></sup>, Large-Scale ML <sup><a href="#5">[5]</a>,<a href="#8">[8]</a>,<a href="#b">[b]</a></sup>, Auto ML <sup><a href="#9">[9]</a></sup>, Speech &amp; Audio <sup><a href="#4">[4]</a></sup>, and solid software engineering experiences in algorithm design, data structures, problem-solving, and complexity. I’m also active in academics and have served as a reviewer for many top-tier AI/ML conferences, like ICLR, ICML, NeurIPS, etc. 
 </p>
 <p>More generally, my interested topic lies widely in the scope of 
 </p>
@@ -54,6 +54,51 @@
 </li>
 </ul>
 <h2>Projects</h2>
+
+<p><section class="card">
+</p>
+<h2 id="b"><a href="DQ_CLIP.pdf" target=&ldquo;blank&rdquo;>DQ-CLIP: Post-Training Quantization for Dynamic Quantized CLIP.</a></h2>
+<p><tt>#Multimodal, #Model Compression, #Large-Scale ML, #Quantization, #Scalable, #Efficiency</tt>
+
+</p>
+<table class="imgtable"><tr><td>
+<img src="imgs/DQ_CLIP.png" alt="CLIP" width="450px" height="250px" />&nbsp;</td>
+<td align="left"><p><i>Although researchers have spent much effort on model compression to reduce the huge memory consumption and computational power of increasingly large models, how to compress multimodal models, especially Vision-Language Pretraining (VLP) models, is still under-explored. We know pruning and distillation can reduce the size of machine learning models, but typically require retraining with the same or even more computational resources. In contrast, post-training quantization incurs negligible costs. In this project, we aim to study the potential for reducing the size and computational complexity of a multimodel model (eg. CLIP) using post-training quantization without incurring significant additional computation. Our experiments showed that quantization has several advantages, including improved performance for devices with limited computational power. One of our key findings is that combined quantization of both the image and text modules leads to the best model size reduction, resulting in a 41% reduction in model size with only a moderate drop in accuracy. Our code is available at <a href="https://anonymous.4open.science/r/260d-project-22-fall" target=&ldquo;blank&rdquo;>here</a>.</i>
+</p>
+</td></tr></table>
+<ul>
+<li><p><b><a href="DQ_CLIP.pdf" target=&ldquo;blank&rdquo;>DQ-CLIP: Post-Training Quantization for Dynamic Quantized CLIP.</a></b>
+<br />
+Fall 2022, UCLA CS 260 project, advised by Prof. <a href="http://web.cs.ucla.edu/~baharan/index.htm" target=&ldquo;blank&rdquo;>Baharan Mirzasoleiman</a>, worked with Yadi Cao, Zhaoqian Wang.
+</p>
+</li>
+</ul>
+<p></section>
+</p>
+
+<p><section class="card">
+</p>
+<h2 id="a"><a href="Multimodal_Attack.pdf" target=&ldquo;blank&rdquo;>Probing the Need for Adversarial Attack on Multimodal Models.</a></h2>
+<p><tt>#Multimodal, #Robustness, #Adversarial Attack, #Interpretability, #Trustworthy AI</tt>
+<br />
+<tt>#Adversarial Robustness of Machine Learning Models</tt>
+
+</p>
+<table class="imgtable"><tr><td>
+<img src="imgs/attack.png" alt="Attack" width="450px" height="250px" />&nbsp;</td>
+<td align="left"><p><i>Our experience of the world is multimodal (vision, language, audio, etc). Although multimodal learning has recently revolutionized the state-of-the-art performance in many downstream tasks, the studies regarding its adversarial robustness remain largely unexplored. Therefore, in this project, we aim to provide an empirical study of adversarial attacks on some representative multimodal models, such as CLIP. Firstly, we compare how adversarial attacks affect the performance of multi-modal and uni-modal models. By analyzing the attack success rate (ASR) of adversarial attacks under different settings, we show the necessity of studying adversarial attacks on multimodal models. Then we conduct extensive experiments to discuss different aspects of the attack on uni-modal and multi-modal and found that the text model is often more robust than the image model. Last, we propose a simple yet effective iterative Co-Attack method, which achieved better performance than the original Co-Attack. We hope these key observations can provide guidance for both designing dedicated multimodal adversarial attacks and robust multimodal models, and inspire researchers better understand the vulnerabilities of multimodal models and develop effective methods for defending against adversarial attacks. Our code is available at: <a href="https://github.com/Eurus-Holmes/Multimodal-Attack" target=&ldquo;blank&rdquo;>https://github.com/Eurus-Holmes/Multimodal-Attack</a>.</i>
+</p>
+</td></tr></table>
+<ul>
+<li><p><b><a href="Multimodal_Attack.pdf" target=&ldquo;blank&rdquo;>Probing the Need for Adversarial Attack on Multimodal Models.</a></b>
+<br />
+Fall 2022, UCLA CS 269 project, advised by Prof. <a href="http://web.cs.ucla.edu/~chohsieh/" target=&ldquo;blank&rdquo;>Cho-Jui Hsieh</a>, worked with Siyan Dong, Xinyu Zhao, Yongqian Li.
+</p>
+</li>
+</ul>
+<p></section>
+</p>
+
 <p><section class="card">
 </p>
 <h2 id="1"><a href="debiasVL.pdf" target=&ldquo;blank&rdquo;>Measuring and Mitigating Bias in Vision-and-Language Models.</a></h2>
@@ -302,7 +347,7 @@ Ziqian Luo, Hua Xu and <b>Feiyang Chen</b>. In Proceedings of the AAAI-19 Worksh
 </p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2022-11-08, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2022-12-09, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7990466&style=0027&nbdigits=5&type=page&initCount=10000" title="Free Counter" Alt="web counter"   border="0" /></a>              
