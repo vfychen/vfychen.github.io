@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 258" width="460" height="258" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#527bbd"/>
+    </marker>
+    <marker id="a2g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#c09050"/>
+    </marker>
+  </defs>
+  <rect x="0.5" y="0.5" width="459" height="257" rx="10" fill="#ffffff" stroke="#dde4ee"/>
+
+  <!-- deployment -->
+  <rect x="150" y="14" width="160" height="42" rx="7" fill="#eef3fb" stroke="#527bbd" stroke-width="1.5"/>
+  <text x="230" y="33" font-size="12.5" font-weight="bold" fill="#224b8d" text-anchor="middle">Deployment</text>
+  <text x="230" y="48" font-size="9.5" fill="#333" text-anchor="middle">advertising video in production</text>
+
+  <!-- data loop -->
+  <rect x="14" y="96" width="150" height="74" rx="7" fill="#f7f9fc" stroke="#9db0cf"/>
+  <text x="89" y="115" font-size="12.5" font-weight="bold" fill="#224b8d" text-anchor="middle">Data loop</text>
+  <g font-size="9" fill="#333" text-anchor="middle">
+    <text x="89" y="131">feedback reveals the gaps</text>
+    <text x="89" y="144">benchmarks measure them</text>
+    <text x="89" y="157">data targets the weaknesses</text>
+  </g>
+
+  <!-- training loop -->
+  <rect x="296" y="96" width="150" height="74" rx="7" fill="#f7f9fc" stroke="#9db0cf"/>
+  <text x="371" y="115" font-size="12.5" font-weight="bold" fill="#224b8d" text-anchor="middle">Training loop</text>
+  <g font-size="9" fill="#333" text-anchor="middle">
+    <text x="371" y="131">post-train candidates</text>
+    <text x="371" y="144">compare to the incumbent</text>
+    <text x="371" y="157">promote verified gains</text>
+  </g>
+
+  <!-- evaluation foundation -->
+  <rect x="150" y="112" width="160" height="42" rx="7" fill="#fdf6ee" stroke="#d2a878" stroke-width="1.3"/>
+  <text x="230" y="130" font-size="11" font-weight="bold" fill="#8a5a22" text-anchor="middle">Evaluation foundation</text>
+  <text x="230" y="144" font-size="9" fill="#5c4327" text-anchor="middle">human-calibrated, task-specific signals</text>
+
+  <path d="M158,50 C104,64 74,74 74,92" stroke="#527bbd" stroke-width="1.4" fill="none" marker-end="url(#a2)"/>
+  <path d="M386,92 C386,74 356,64 302,50" stroke="#527bbd" stroke-width="1.4" fill="none" marker-end="url(#a2)"/>
+  <path d="M166,174 C230,190 296,190 340,174" stroke="#527bbd" stroke-width="1.4" fill="none" marker-end="url(#a2)"/>
+  <path d="M148,133 L168,133" stroke="#c09050" stroke-width="1.1" fill="none" marker-end="url(#a2g)"/>
+  <path d="M312,133 L292,133" stroke="#c09050" stroke-width="1.1" fill="none" marker-end="url(#a2g)"/>
+
+  <g font-size="9" fill="#666" font-style="italic">
+    <text x="82" y="78">production feedback</text>
+    <text x="378" y="78" text-anchor="end">validated model</text>
+    <text x="253" y="193" text-anchor="middle">targeted data &#183; evaluation</text>
+  </g>
+
+  <g font-size="10" fill="#444" text-anchor="middle">
+    <text x="230" y="216">Each cycle improves the model, the training data,</text>
+    <text x="230" y="231">and the evaluation process used for the next cycle.</text>
+  </g>
+  <text x="230" y="249" font-size="10.5" fill="#777" text-anchor="middle">&#8594; <tspan font-weight="bold">Boreal</tspan>: preferred over its open base in 81% of decisive blind comparisons</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 258" width="460" height="258" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <marker id="t1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#527bbd"/>
+    </marker>
+    <marker id="t2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3f8a6e"/>
+    </marker>
+  </defs>
+  <rect x="0.5" y="0.5" width="459" height="257" rx="10" fill="#ffffff" stroke="#dde4ee"/>
+
+  <!-- deterministic engines column -->
+  <text x="88" y="26" font-size="10.5" font-weight="bold" fill="#224b8d" text-anchor="middle">Deterministic engines</text>
+  <g fill="#f7f9fc" stroke="#9db0cf">
+    <rect x="16" y="36" width="144" height="22" rx="4"/>
+    <rect x="16" y="63" width="144" height="22" rx="4"/>
+    <rect x="16" y="90" width="144" height="22" rx="4"/>
+    <rect x="16" y="117" width="144" height="22" rx="4"/>
+    <rect x="16" y="144" width="144" height="22" rx="4"/>
+  </g>
+  <g font-size="9" fill="#333" text-anchor="middle">
+    <text x="88" y="51">fundamentals &amp; valuation</text>
+    <text x="88" y="78">options &amp; volatility</text>
+    <text x="88" y="105">momentum &amp; market regime</text>
+    <text x="88" y="132">portfolio &amp; risk constraints</text>
+    <text x="88" y="159">market &amp; social signals</text>
+  </g>
+
+  <g stroke="#527bbd" stroke-width="1.2" fill="none" marker-end="url(#t1)">
+    <path d="M160,47 C186,47 190,90 206,96"/>
+    <path d="M160,74 C186,74 192,92 206,101"/>
+    <path d="M160,101 L206,104"/>
+    <path d="M160,128 C186,128 192,116 206,109"/>
+    <path d="M160,155 C186,155 190,120 206,114"/>
+  </g>
+
+  <!-- agent -->
+  <rect x="208" y="72" width="108" height="68" rx="8" fill="#eef3fb" stroke="#527bbd" stroke-width="1.6"/>
+  <text x="262" y="97" font-size="14" font-weight="bold" fill="#224b8d" text-anchor="middle">Travis</text>
+  <text x="262" y="113" font-size="9" fill="#333" text-anchor="middle">reasoning layer</text>
+  <text x="262" y="127" font-size="9" fill="#333" text-anchor="middle">over hard numbers</text>
+
+  <path d="M316,106 L344,106" stroke="#527bbd" stroke-width="1.4" fill="none" marker-end="url(#t1)"/>
+
+  <!-- outcome -->
+  <rect x="346" y="76" width="100" height="60" rx="7" fill="#f7f9fc" stroke="#9db0cf"/>
+  <text x="396" y="98" font-size="10.5" font-weight="bold" fill="#224b8d" text-anchor="middle">Research</text>
+  <text x="396" y="113" font-size="9" fill="#333" text-anchor="middle">views &#183; alerts</text>
+  <text x="396" y="127" font-size="9" fill="#333" text-anchor="middle">tracked outcomes</text>
+
+  <!-- the learning loop -->
+  <path d="M396,140 C396,186 300,196 262,196 C200,196 160,186 160,166" stroke="#3f8a6e" stroke-width="1.6" fill="none" stroke-dasharray="5 3" marker-end="url(#t2)"/>
+  <rect x="196" y="182" width="136" height="28" rx="6" fill="#eef7f2" stroke="#3f8a6e" stroke-width="1.2"/>
+  <text x="264" y="200" font-size="10" font-weight="bold" fill="#1f5c46" text-anchor="middle">evaluates past decisions</text>
+
+  <text x="230" y="232" font-size="10" fill="#444" text-anchor="middle">A second testbed for closed-loop learning under</text>
+  <text x="230" y="248" font-size="10" fill="#444" text-anchor="middle">measurable feedback, non-stationarity, and explicit risk.</text>
+</svg>
